@@ -1,4 +1,4 @@
-# flutter_auth
+# myauthapp
 
 A new Flutter project.
 
